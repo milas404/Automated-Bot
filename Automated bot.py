@@ -432,4 +432,4 @@ def login_pokemoncenter(email, password):
     
 
 # Run
-driver = login_pokemoncenter("troybg12@gmail.com", "HelloWorld@2025")
+driver = login_pokemoncenter("abcd@gmail.com", "Pass@2025Pass")
